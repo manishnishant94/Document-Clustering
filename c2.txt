@@ -1,0 +1,7 @@
+Title : Cancer
+
+Author : Shivani sharma
+
+Abstract : Cancer is a fatal diseases.Cancer is the uncontrolled growth of abnormal cells in the body. It is named for the organ or type of cell in which it starts growing. Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body. Not all tumors are cancerous, benign tumors do not spread to other parts of the body. Possible signs and symptoms include a lump, abnormal bleeding, prolonged cough, unexplained weight loss and a change in bowel movements. While these symptoms may indicate cancer, they may have other causes. Over hundred types of cancers affect humans. grow from the meninges, which are the three thin membranes that surround the brain and spinal cord. These tumors are usually benign (non-cancerous). Because these tumors tend to grow very slowly, the brain may be able to adjust to their presence. Meningiomas frequently grow quite large before they cause symptoms. Germ cell tumors arise from developing sex (egg or sperm) cells, also known as germ cells. The most common type of germ cell tumor in the brain is the germinoma. Aside from the brain, germinomas can form in the ovaries, testicles, chest and abdomen. Most germ cell tumors occur in children.
+
+Keywords : cancer, growth, cells, membranes, brain

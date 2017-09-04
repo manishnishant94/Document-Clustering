@@ -1,0 +1,7 @@
+Title : Heart
+
+Author : Pooja Verma
+
+Abstract : The heart is a muscular organ in humans and other animals, which pumps blood through the blood vessels of the circulatory system. Blood provides the body with oxygen and nutrients, as well as assists in the removal of metabolic wastes. In humans, the heart is located between the lungs, in the middle compartment of the chest.The heart pumps blood with a rhythm determined by a group of pacemaking cells in the sinoatrial node. These generate a current that causes contraction of the heart, traveling through the atrioventricular node and along the conduction system of the heart. The heart receives blood low in oxygen from the systemic circulation, which enters the right atrium from the superior and inferior venae cavae and passes to the right ventricle
+
+Keywords : heart , muscular ,organ ,blood ,atrioventricular 
